@@ -1,0 +1,44 @@
+
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  header{
+    text-align:center;
+    
+  }
+
+  #tribute-info{
+    text-align: center;
+    margin: 0px 200px 20px 200px;
+
+  }
+
+  body{
+    background-color:#eee
+     /* rgb(172, 170, 170); */
+  }
+
+  #img-caption{
+    text-align: center;
+  }
+
+  h3{
+    text-align: center;
+    margin-top: 80px;
+  }
+
+  h3 a{
+
+    color: rgb(132, 132, 199);
+  }
